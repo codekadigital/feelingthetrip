@@ -1,5 +1,6 @@
-# Feeling the Trip — demo
+# Feeling the Trip — demo visual
 
-Web de Feeling the Trip (Alba & Miguel) — demo visual para el portfolio. **Solo build, sin código fuente.**
+Demo pública de la web de Feeling the Trip (Alba & Miguel), publicada por **Codeka Digital**.
 
-Publicada en https://codekadigital.github.io/feelingthetrip/
+Este repositorio contiene **solo el build estático** (sin código fuente) y se sirve vía GitHub Pages en:
+https://codekadigital.github.io/feelingthetrip/
